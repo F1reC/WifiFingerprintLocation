@@ -1,0 +1,24 @@
+spring:
+  datasource:
+    username: root
+    password: jj18435
+    # 服务器地址
+    url: jdbc:mysql://localhost:3307/rssi1?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    driver-class-name: com.mysql.jdbc.Driver
+
+    dbcp2:
+      validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-borrow: true
+      time-between-eviction-runs-millis: 300000
+      min-evictable-idle-time-millis: 1800000
+
+server:
+  port: 7001
+
+mybatis:
+  type-aliases-package: cn.gzx.ressiweb.entity
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
