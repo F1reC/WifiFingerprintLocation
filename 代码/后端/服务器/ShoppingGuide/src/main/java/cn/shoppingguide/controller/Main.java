@@ -13,7 +13,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.*;
-
+//采集点位数据
+//后端与数据库链接
 @WebServlet(urlPatterns = "/Main")
 public class Main extends HttpServlet {//数据采集阶段
     private static final long serialVersionUID = 1L;

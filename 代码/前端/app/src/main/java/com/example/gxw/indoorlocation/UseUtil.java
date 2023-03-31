@@ -1,13 +1,9 @@
 package com.example.gxw.indoorlocation;
 
 /**
- * Created by GXW on 2018/4/14.
+ * Created by Courage on 2021/7/9.
  */
 
 public class UseUtil {
-
-
-
-
 
 }

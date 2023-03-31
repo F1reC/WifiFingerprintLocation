@@ -1,7 +1,7 @@
 package cn.shoppingguide.entity;
 
 import java.util.Objects;
-
+//用户实体类
 public class User {
 
     private String username;

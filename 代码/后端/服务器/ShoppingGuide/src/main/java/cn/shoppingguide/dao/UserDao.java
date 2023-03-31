@@ -4,7 +4,7 @@ import cn.shoppingguide.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
-
+//链接数据库底层
 @Mapper
 @Repository
 public interface UserDao {

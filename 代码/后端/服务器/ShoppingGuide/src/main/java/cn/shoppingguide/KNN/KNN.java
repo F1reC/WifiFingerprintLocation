@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Iterator;
 import java.util.ArrayList;
-
+//knn寻路算法
 public class KNN {
 
     private static double disCal(KNNData i, KNNData td) {

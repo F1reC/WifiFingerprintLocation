@@ -1,6 +1,7 @@
 package com.example.gxw.indoorlocation;
 
 /**
+ * 路径节点，用于寻路算法的实现，用户可自行添加
  */
 
 public class PathPoint {           //使用此类完成点到坐标的对应

@@ -15,7 +15,7 @@ import android.view.View;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//用户显示定位点
 public class  StepView extends View {
     private Paint mPaint;
     private Paint mStrokePaint;

@@ -13,7 +13,7 @@ import java.io.*;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+//
 @WebServlet(urlPatterns="/KNKManger")
 public class KNNManger extends HttpServlet {
     private static final long serialVersionUID = 1L;

@@ -13,7 +13,7 @@ import android.view.View;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//在地图上画路径
 public class  PathView extends View {         //此类用于显示路径
     private Paint paint;
 

@@ -17,7 +17,7 @@ import okhttp3.FormBody;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
-
+//简单的注册登录界面
 public class LoginActivity extends AppCompatActivity
 {
     //参数定义

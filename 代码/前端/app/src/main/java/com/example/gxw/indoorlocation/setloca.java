@@ -32,7 +32,8 @@ import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
 import java.util.List;
-
+//调用手机方向和计步传感器显示路径
+//手机需保证可使用指南针
 public class setloca extends AppCompatActivity implements StepSensorBase.StepCallBack, OrientSensor.OrientCallBack {
 
     private TextView mStepText;

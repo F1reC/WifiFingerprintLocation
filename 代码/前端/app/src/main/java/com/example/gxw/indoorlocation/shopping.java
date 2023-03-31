@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//简单的购物清单
 public class shopping extends AppCompatActivity {
     private Button buttonx;
     private Button buttony;

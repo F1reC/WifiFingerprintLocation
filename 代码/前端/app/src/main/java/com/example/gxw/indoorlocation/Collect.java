@@ -37,6 +37,8 @@ import java.util.List;
 //              303：公安局       AP3
 //              304：ceayoeu!     AP4
 //              305：Real Fans    AP5
+//每个AP是附近的wifi名称，每个AP对应一个编号，编号对应数据库中的AP编号
+//courage
 
 
 public class Collect extends AppCompatActivity {

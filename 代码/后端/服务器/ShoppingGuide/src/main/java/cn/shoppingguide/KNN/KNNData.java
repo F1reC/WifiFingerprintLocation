@@ -1,5 +1,5 @@
 package cn.shoppingguide.KNN;
-
+//
 public class KNNData implements Comparable<KNNData>{
     double x; //
     double y;

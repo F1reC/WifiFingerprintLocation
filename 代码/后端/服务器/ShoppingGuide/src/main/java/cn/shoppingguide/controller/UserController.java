@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//用户登录注册
 @Controller
 @ResponseBody
 public class UserController {

@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.LinkedList;
 import java.util.List;
-
+//聊天室
 public class chatServer { static List<Socket> cons = new LinkedList<Socket>();
     private static Socket socket = null;
 
